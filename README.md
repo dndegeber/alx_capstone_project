@@ -21,6 +21,9 @@ Navigate through the different sections using the navigation menu.
 Click on projects to view detailed information, images, and access live demos or source code repositories.
                     <a href="https://github.com/dndegeber/Project1">Project 1</a>
                     https://drive.google.com/file/d/1hT6JFrtEzA1aO6LZRpdxOFuKrWMTUTtI/view?usp=drivesdk
+This link directs you to an image portfolio
+https://drive.google.com/file/d/1DTX6qhe-LIXKco_DUv7Wb9r5HB7TSQJT/view?usp=drivesdk
+This link directs you to prototype.
 
 Use the contact form to send messages directly to me
 
